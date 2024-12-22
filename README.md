@@ -9,4 +9,4 @@ If you want to use this code, please
 - run `python t.py --model DSGAD --run 1 --dataset [yelp, tfinance, amazon, tolokers]` in homogeneous graph, `python t.py --model DSGAD_hete --run 1 --dataset [yelp_hete, amazon_hete]` in heterogeneous graph.
 
 
-Note: please refer to the original code of BWGNN published on https://github.com/squareRoot3/Rethinking-Anomaly-Detection. In this paper, we have adapted it into our framework.
+Note: Please refer to the original BWGNN code published at https://github.com/squareRoot3/Rethinking-Anomaly-Detection. In this paper, we have adapted it into our framework.
