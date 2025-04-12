@@ -1,5 +1,5 @@
 # Dynamic-Spectral-Graph-Anomaly-Detection
-Dynamic Spectral Graph Anomaly Detection is accepted by AAAI2025.
+Dynamic Spectral Graph Anomaly Detection is published by AAAI2025.
 
 I would like to express my sincere gratitude to Mr. Zhang Tairui for his work on the code implementation, and also extend my heartfelt thanks to the other collaborators.
 
@@ -10,3 +10,21 @@ If you want to use this code, please
 
 
 Note: Please refer to the original BWGNN code published at https://github.com/squareRoot3/Rethinking-Anomaly-Detection. In this paper, we have adapted it into our framework.
+
+
+Citation Format
+
+Zheng, J., Yang, C., Zhang, T., Cao, L., Jiang, B., Fan, X., Wu, X.- ming, & Zhu, X. (2025). Dynamic Spectral Graph Anomaly Detection. Proceedings of the AAAI Conference on Artificial Intelligence, 39(12), 13410-13418. https://doi.org/10.1609/aaai.v39i12.33464.
+
+@article{Zheng2025, 
+  title={Dynamic Spectral Graph Anomaly Detection}, 
+  volume={39}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/33464}, 
+  DOI={10.1609/aaai.v39i12.33464}, 
+  number={12}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Zheng, Jianbo and Yang, Chao and Zhang, Tairui and Cao, Longbing and Jiang, Bin and Fan, Xuhui and Wu, Xiao-ming and Zhu, Xianxun}, 
+  year={2025}, 
+  month={Apr.}, 
+  pages={13410-13418} }
+
