@@ -12,9 +12,8 @@ If you want to use this code, please
 Note: Please refer to the original BWGNN code published at https://github.com/squareRoot3/Rethinking-Anomaly-Detection. In this paper, we have adapted it into our framework.
 
 
-Citation Format
 
-Zheng, J., Yang, C., Zhang, T., Cao, L., Jiang, B., Fan, X., Wu, X.- ming, & Zhu, X. (2025). Dynamic Spectral Graph Anomaly Detection. Proceedings of the AAAI Conference on Artificial Intelligence, 39(12), 13410-13418. https://doi.org/10.1609/aaai.v39i12.33464.
+If you find my work useful, please cite it as follows:
 
 @article{Zheng2025, 
   title={Dynamic Spectral Graph Anomaly Detection}, 
